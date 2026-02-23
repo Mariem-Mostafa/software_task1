@@ -159,27 +159,3 @@ namespace My_Frist_Code
     }
 }
 
-
-/*
-            double side = int.Parse(Console.ReadLine());
-            
-            Console.WriteLine("The Area of the square : {0}", side * side);
-
-
-            double triangleBase = int.Parse(Console.ReadLine());
-            double triangleHeight = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("The Area of the triangle : {0}", 0.5 * triangleBase * triangleHeight);
-            */
-
-            /*
-            Console.WriteLine("What is your name ?");
-            string name = Console.ReadLine();
-            Console.WriteLine("What is your age ?");
-            int age = int.Parse(Console.ReadLine());
-            Console.WriteLine("What is your country ?");
-            string country = Console.ReadLine();
-            Console.WriteLine("How meny member in your family ?");
-            int fm = int.Parse(Console.ReadLine());
-            Console.WriteLine($"Your data :\n your name: {name}\n your age: {age}\n your county: {country}\n no of family member: {fm}");
-        */
